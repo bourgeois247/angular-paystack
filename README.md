@@ -11,5 +11,5 @@ and work properly other times, depending on internet connection speed.
 > Server endpoints required by this library would be mocked by the Apiary.io service, to enable users test the library without having to setup a server.
 
 ##TODO
-Stop procrastinating and actually upload the code :(
-Include tests.
+- Stop procrastinating and actually upload the code :(
+- Include tests.
